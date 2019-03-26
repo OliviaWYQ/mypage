@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OliviaWYQ.github.io/website/",
+  "homepage": "https://OliviaWYQ.github.io/mypage/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
